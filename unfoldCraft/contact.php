@@ -267,6 +267,11 @@
                                         <input type="text" class="form-control mb-30" name="full-name" placeholder="Name" required>
                                     </div>
                                 </div>
+				    <!-- use input filters in javascript for security purpose 
+					and email is not working , user can give any type of input in your gmail tag
+						
+				
+					-->
                                 <div class="col-lg-6">
                                     <div class="form-group">
                                         <input type="email" class="form-control mb-30" name="email" placeholder="Email" required>
